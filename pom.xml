@@ -6,9 +6,8 @@
   <artifactId>duo_java</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-
   <name>duo_java</name>
-  <url>http://maven.apache.org</url>
+  <url>http://www.duosecurity.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
