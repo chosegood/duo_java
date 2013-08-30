@@ -14,12 +14,15 @@ This package allows a web developer to quickly add Duo's interactive, self-servi
 
 What's here:
 
-* `js` - Duo Javascript library, to be hosted by your webserver.
-* `DuoWeb` - Duo Java SDK to be integrated with your web application, including unit tests
+* `src/main/js` - Duo Javascript library, to be hosted by your webserver.
+* `src/main/java` - Duo Java SDK to be integrated with your web application, including unit tests
 
 # Usage
 
 Developer documentation: <http://www.duosecurity.com/docs/duoweb>
+
+To build:
+mvn clean install
 
 # Support
 
